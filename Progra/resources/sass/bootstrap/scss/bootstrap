@@ -1,2 +1,1 @@
-@import 'bootstrap/scss/bootstrap';
- resources\sass\app.scss
+@import "../node_modules/bootstrap/scss/bootstrap";
